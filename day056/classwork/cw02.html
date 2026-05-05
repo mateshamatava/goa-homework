@@ -1,0 +1,26 @@
+<!-- რაც დღეს გავიარეთ იმ მასალის გამოყენებით აამოძრავეთ ელემენტი (სამივე განზომილება) -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <body>
+    <style>
+    .box{
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        margin: 20px;
+        transition:  0.1s all;
+        transform: rotateX(43deg);
+    }
+    .box:hover{
+        transform:rotate3d( 1,1,1,430deg)
+        transition:  3.3s all;
+    }
+    </style>
+    <div class="box"></div>
+ </body>
+ </html>

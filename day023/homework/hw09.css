@@ -1,0 +1,8 @@
+/* შექმენით ვებსაიტი საზამთროზე, გამოიყენეთ external css */
+body {
+    background-color:green;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: red;
+}

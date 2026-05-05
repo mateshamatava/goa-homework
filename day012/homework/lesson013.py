@@ -1,0 +1,4 @@
+# 14)ახსენით კომენტარის სახით  რა განსხვავებები არის sequencing-სა,selection-სა და iteration შორის
+# sequencing-თანმიმდევრობა
+# selection-არჩევა
+# iteration-გამეორება

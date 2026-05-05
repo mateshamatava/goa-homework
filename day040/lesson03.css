@@ -1,0 +1,7 @@
+body{
+
+    height: 300px;
+    width: 300px;
+    background: linear-gradient( 135deg, green, black, red);
+
+}

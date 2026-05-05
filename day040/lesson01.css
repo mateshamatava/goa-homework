@@ -1,0 +1,9 @@
+/* შექმენით div, linear gradient-ის გამოყენებით მიეცით მიმართულებება, მარჯვენა ზედა კუთხიდან მარცხენა ქვედა კუთხისკენ */
+div{
+
+    height: 300px;
+    width: 300px;
+
+    background: linear-gradient( 270deg, green, black, red);
+
+}
